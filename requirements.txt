@@ -1,0 +1,10 @@
+pandas==1.5.3          # For data manipulation and analysis
+matplotlib==3.7.1      # For data visualization (e.g., time series, bar plots)
+seaborn==0.12.2        # For advanced statistical data visualization
+nltk==3.7              # For natural language processing (e.g., VADER sentiment analysis)
+scikit-learn==1.1.2    # For machine learning models and analysis (e.g., regression, classification)
+numpy==1.21.0          # For numerical operations (required by pandas, scikit-learn, etc.)
+openpyxl==3.0.10       # For reading/writing Excel files (.xlsx)
+xlrd==2.0.1            # For reading older Excel file formats (.xls)
+plotly==5.10.0         # Optional: For interactive plots and more complex visualizations
+pyLDAvis==3.3.1        # Optional: For visualizing LDA (Latent Dirichlet Allocation) models
