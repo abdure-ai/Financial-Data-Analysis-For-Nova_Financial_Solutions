@@ -8,3 +8,10 @@ openpyxl==3.0.10       # For reading/writing Excel files (.xlsx)
 xlrd==2.0.1            # For reading older Excel file formats (.xls)
 plotly==5.10.0         # Optional: For interactive plots and more complex visualizations
 pyLDAvis==3.3.1        # Optional: For visualizing LDA (Latent Dirichlet Allocation) models
+scipy==1.10.1
+yfinance==0.2.18
+TextBlob==0.17.1
+ta-lib==0.4.0
+pynance==0.6.0
+sklearn==1.2.0
+plotly==5.11.0
